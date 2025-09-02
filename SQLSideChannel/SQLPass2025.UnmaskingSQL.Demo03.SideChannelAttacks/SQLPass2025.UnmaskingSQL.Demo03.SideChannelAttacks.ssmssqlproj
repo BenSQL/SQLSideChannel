@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SQLPass2025.UnmaskingSQL.Demo03.SideChannelAttacks">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Demo03.Masking.01.Exact.Match.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo03.Masking.01.Exact.Match.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo03.Masking.02.Histogram.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo03.Masking.02.Histogram.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo03.Masking.03.Decimal.Complete.Unmasking.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo03.Masking.03.Decimal.Complete.Unmasking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo03.Masking.04.Brute.Force.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo03.Masking.04.Brute.Force.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo03.RLS.01.SideChannel.Keys.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo03.RLS.01.SideChannel.Keys.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo03.RLS.02.SideChannel.Values.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo03.RLS.02.SideChannel.Values.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo03.RLS.03.SideChannel.Automated.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo03.RLS.03.SideChannel.Automated.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo03.RLS.04.Brute.Force.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo03.RLS.04.Brute.Force.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo03.RLS.04B.Brute.Force.Monitor.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo03.RLS.04B.Brute.Force.Monitor.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SQLPass2025.UnmaskingSQL.Demo01.Setup">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Demo.01.Setup.01.Create.Restore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo.01.Setup.01.Create.Restore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo01.Setup.02.Create.Users.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName>
+          </AssociatedConnUserName>
+          <FullPath>Demo01.Setup.02.Create.Users.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo01.Setup.03.Add.Masking.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo01.Setup.03.Add.Masking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo01.Setup.04.Add.RLS.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName>
+          </AssociatedConnUserName>
+          <FullPath>Demo01.Setup.04.Add.RLS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo01.Setup.05.SELECT.Masked.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName>
+          </AssociatedConnUserName>
+          <FullPath>Demo01.Setup.05.SELECT.Masked.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo01.Setup.06.SELECT.RLS.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName>
+          </AssociatedConnUserName>
+          <FullPath>Demo01.Setup.06.SELECT.RLS.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

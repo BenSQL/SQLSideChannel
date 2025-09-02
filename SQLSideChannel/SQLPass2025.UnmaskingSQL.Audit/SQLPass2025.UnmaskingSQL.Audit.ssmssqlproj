@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SQLPass2025.UnmaskingSQL.Audit">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AUDIT.Masked.Columns.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>AUDIT.Masked.Columns.sql</FullPath>
+        </FileNode>
+        <FileNode Name="AUDIT.RLS.Tables.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>AUDIT.RLS.Tables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SHOW.Object.Text.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SHOW.Object.Text.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SQLPass2025.UnmaskingSQL.Demo04.Capturing.Attacks">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="AZURE.Extended.Event.CREATE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AZURE.Extended.Event.CREATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="AZURE.Extended.Event.DROP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AZURE.Extended.Event.DROP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="AZURE.Extended.Event.SHRED.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AZURE.Extended.Event.SHRED.sql</FullPath>
+        </FileNode>
+        <FileNode Name="AZURE.Extended.Event.START.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AZURE.Extended.Event.START.sql</FullPath>
+        </FileNode>
+        <FileNode Name="AZURE.Extended.Event.STOP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AZURE.Extended.Event.STOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Mitigation.01.Views.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName>
+          </AssociatedConnUserName>
+          <FullPath>Mitigation.01.Views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Mitigation.02.Stored.Procedures.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Mitigation.02.Stored.Procedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SERVER.Extended.Event.CREATE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SERVER.Extended.Event.CREATE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SERVER.Extended.Event.DROP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SERVER.Extended.Event.DROP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SERVER.Extended.Event.SHRED.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SERVER.Extended.Event.SHRED.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SERVER.Extended.Event.START.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SERVER.Extended.Event.START.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SERVER.Extended.Event.STOP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>SERVER.Extended.Event.STOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TRACE.01.Running.Traces.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TRACE.01.Running.Traces.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TRACE.02.Create.Definition.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TRACE.02.Create.Definition.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TRACE.03.SELECT.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TRACE.03.SELECT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TRACE.04.DROP.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TRACE.04.DROP.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SQLPass2025.UnmaskingSQL.Demo02.Direct.Attacks">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Demo02.DirectAttack.01.Disable.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Demo02.DirectAttack.01.Disable.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo02.DirectAttack.01b.Change.Access.Predicate.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo02.DirectAttack.01b.Change.Access.Predicate.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo02.DirectAttack.02.INSERT.Control.Table.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo02.DirectAttack.02.INSERT.Control.Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo02.DirectAttack.03.DBCC.PAGE.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo02.DirectAttack.03.DBCC.PAGE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo02.DirectAttack.03b.DBCC.Page.OUTUT.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo02.DirectAttack.03b.DBCC.Page.OUTUT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo02.DirectAttack.04.Context_Info.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo02.DirectAttack.04.Context_Info.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo02.IndirectAttack.01.Statistics.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo02.IndirectAttack.01.Statistics.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo02.IndirectAttack.02.Identity.Information.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo02.IndirectAttack.02.Identity.Information.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo02.IndirectAttack.03.Sequence.Numbers.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo02.IndirectAttack.03.Sequence.Numbers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo02.IndirectAttack.04.Compiled.Parameters.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo02.IndirectAttack.04.Compiled.Parameters.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Demo02.IndirectCombined.01.Statistics.sql">
+          <AssociatedConnectionMoniker>
+          </AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>
+          </AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Demo02.IndirectCombined.01.Statistics.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

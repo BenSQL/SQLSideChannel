@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQLPass2025.UnmaskingSQL", "SQLPass2025.UnmaskingSQL\SQLPass2025.UnmaskingSQL.ssmssqlproj", "{5601FEB0-1372-467C-BE5E-092346484CBE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQLPass2025.UnmaskingSQL.Audit", "SQLPass2025.UnmaskingSQL.Audit\SQLPass2025.UnmaskingSQL.Audit.ssmssqlproj", "{77CF8286-5B06-42B4-9A84-41B76D68F50F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQLPass2025.UnmaskingSQL.Demo01.Setup", "SQLPass2025.UnmaskingSQL.Demo01.Setup\SQLPass2025.UnmaskingSQL.Demo01.Setup.ssmssqlproj", "{3F701360-FEAF-45D2-ABE2-6D952215828F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQLPass2025.UnmaskingSQL.Demo02.Direct.Attacks", "SQLPass2025.UnmaskingSQL.Demo02.Direct.Attacks\SQLPass2025.UnmaskingSQL.Demo02.Direct.Attacks.ssmssqlproj", "{4110CF8B-852D-451C-A0BB-7D9849F195C5}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQLPass2025.UnmaskingSQL.Demo03.SideChannelAttacks", "SQLPass2025.UnmaskingSQL.Demo03.SideChannelAttacks\SQLPass2025.UnmaskingSQL.Demo03.SideChannelAttacks.ssmssqlproj", "{F57144FF-940E-45E4-83CC-7C55F3C6E013}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQLPass2025.UnmaskingSQL.Demo04.Capturing.Attacks", "SQLPass2025.UnmaskingSQL.Demo04.Capturing.Attacks\SQLPass2025.UnmaskingSQL.Demo04.Capturing.Attacks.ssmssqlproj", "{92812867-CF65-41D0-A805-B0989F27C36F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5601FEB0-1372-467C-BE5E-092346484CBE}.Default|Default.ActiveCfg = Default
+		{77CF8286-5B06-42B4-9A84-41B76D68F50F}.Default|Default.ActiveCfg = Default
+		{3F701360-FEAF-45D2-ABE2-6D952215828F}.Default|Default.ActiveCfg = Default
+		{4110CF8B-852D-451C-A0BB-7D9849F195C5}.Default|Default.ActiveCfg = Default
+		{F57144FF-940E-45E4-83CC-7C55F3C6E013}.Default|Default.ActiveCfg = Default
+		{92812867-CF65-41D0-A805-B0989F27C36F}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC20EE4-E11B-417E-94AA-88CD500C6A63}
+	EndGlobalSection
+EndGlobal
